@@ -55,4 +55,8 @@ Go to App Store Connect, select the app, then the Testflight tab. You should see
 
 ## What's in the app?
 
+## TODO 
+- Scrolling without image click 
+- Multiseleect 
+
 This app should be considered a client which is connected to an installation of [Photonix Server](https://github.com/damianmoore/photonix). Without an internet connection to a server, the app is currently next to useless. The main reason for creating this app was to give people quick access to their photo libraries from their phone or mobile device. Next, we intend to offer the option of detecting new photos when they are taken on the device and automatically uploading.
